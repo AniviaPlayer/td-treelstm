@@ -61,7 +61,7 @@ cd scripts
 ./run_msr_sort.sh
 ./run_msr_test.sh
 ```
-Note the program will crash when running *./run_msr_sort.sh*. You can ignore the crash or you should use *--sort 0* switch instead of *--sort 20*.
+Note the program will crash when running *./run_msr.sh*. You can ignore the crash or you should use *--sort 0* switch instead of *--sort 20*.
 
 ### Create Dataset for LdTreeLSTM
 ```
