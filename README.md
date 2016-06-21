@@ -4,8 +4,21 @@ Top-down Tree Long Short-Term Memory Networks
 
 A [Torch](https://github.com/torch) implementation of the Top-down TreeLSTM described in the following paper. 
 
-### [Top-down Tree Long Short-Term Memory Networks](http://arxiv.org/abs/1511.00060)
+### [Top-down Tree Long Short-Term Memory Networks](http://aclweb.org/anthology/N/N16/N16-1035.pdf)
 Xingxing Zhang, Liang Lu and Mirella Lapata. In *Proceedings of the 2016 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies* (NAACL 2016).
+```
+@InProceedings{zhang-lu-lapata:2016:N16-1,
+  author    = {Zhang, Xingxing  and  Lu, Liang  and  Lapata, Mirella},
+  title     = {Top-down Tree Long Short-Term Memory Networks},
+  booktitle = {Proceedings of the 2016 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies},
+  month     = {June},
+  year      = {2016},
+  address   = {San Diego, California},
+  publisher = {Association for Computational Linguistics},
+  pages     = {310--320},
+  url       = {http://www.aclweb.org/anthology/N16-1035}
+}
+```
 
 ### Implemented Models 
 * TreeLSTM
