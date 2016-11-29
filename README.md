@@ -51,6 +51,8 @@ Please also note that to run the code, you need to use an old version of Torch w
 
 # Language Modeling (MSR Sentence Completion)
 
+Pre-trained models (TreeLSTM-400 and LdTreeLSTM-400) are available https://drive.google.com/file/d/0B6-YKFW-MnbOc3pya29UZkZpUFU/view?usp=sharing
+
 ## Preprocessing
 First, parse the dataset into dependency trees using [Stanford CoreNLP toolkit](http://stanfordnlp.github.io/CoreNLP/).
 It should looks like this
